@@ -3,7 +3,7 @@ Welcome to my blog!
 
 :date: 20200501
 :tags: welcome
-:category: Intro
+:category: Introduction
 :slug: welcome
 :author: Symplex
 :summary: Welcome document
